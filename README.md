@@ -6,4 +6,4 @@ The project uses OpenGL to render a 2d image consisting of a desk, a computer, a
 
 #Contributors: Kaif Siddiqui (@MoKaif),
 Sujal Bhatt, 
-Fardeen Kachawa
+Fardeen Kachawa (@Fardeenk8)
